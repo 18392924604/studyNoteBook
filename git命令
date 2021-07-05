@@ -1,0 +1,5 @@
+git log 查看提交记录
+git add . 添加当前修改到临时仓库
+git commit "我的第一次提交"
+git push
+git status
